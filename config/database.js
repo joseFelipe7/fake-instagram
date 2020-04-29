@@ -1,4 +1,4 @@
-moduke.exports = {
+module.exports = {
     username:'root',
     password:'',
     database:'fake-instagram',
